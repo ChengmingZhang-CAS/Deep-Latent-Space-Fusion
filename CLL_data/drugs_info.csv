@@ -1,0 +1,92 @@
+"","name","main_targets","target_category","group","pathway","distributor","approved_042016","devel_042016"
+"D_001","navitoclax","BCL2, BCL-XL, BCL-W","Apoptosis (BH3, Survivin)","other","Apoptosis (BH3)","Selleck Chemicals",0,1
+"D_002","ibrutinib","BTK","B-cell receptor","kinase inhibitor","B-cell receptor","Selleck Chemicals",1,0
+"D_003","idelalisib","PI3K delta","PI3K/AKT","kinase inhibitor","B-cell receptor","Selleck Chemicals",1,0
+"D_004","SNS-032","CDK2/7/9","Cell cycle control","kinase inhibitor","Other","Selleck Chemicals",0,1
+"D_005","olaparib","PARP1/2","DNA damage response","other","Other","Selleck Chemicals",1,0
+"D_006","fludarabine","Purine analogue","DNA damage response","chemotherapeutic agent","Other","Selleck Chemicals",1,0
+"D_007","vorinostat","HDAC I/IIa/IIb/IV","Epigenome","other","Other","Selleck Chemicals",1,0
+"D_008","bortezomib","Proteasome","Proteasome","other","Other","Selleck Chemicals",1,0
+"D_009","entinostat","HDAC I/III","Epigenome","other","Other","Selleck Chemicals",0,1
+"D_010","nutlin-3","MDM2","DNA damage response","other","Other","Selleck Chemicals",0,1
+"D_011","enzastaurin","PKC","PKC","kinase inhibitor","Other","Selleck Chemicals",0,1
+"D_012","selumetinib","MEK1/2","MAPK","kinase inhibitor","Other","Selleck Chemicals",0,1
+"D_013","afatinib","EGFR, ERBB2","EGFR","kinase inhibitor","Other","Selleck Chemicals",1,0
+"D_014","deforolimus","mTOR","mTOR","other","Other","Selleck Chemicals",0,1
+"D_015","MK-1775","WEE1","Cell cycle control","kinase inhibitor","Other","Selleck Chemicals",0,1
+"D_016","vismodegib","SMO","Hedgehog signaling",NA,"Other","Selleck Chemicals",1,0
+"D_017","AT13387","HSP90","HSP90","other","Other","Selleck Chemicals",0,1
+"D_018","RO4929097","Gamma-secretase","NOTCH","other","Other","Selleck Chemicals",0,1
+"D_019","XAV-939","WNT","WNT","other","Other","Selleck Chemicals",0,1
+"D_020","AZD7762","CHK1/2","DNA damage response","kinase inhibitor","Other","Selleck Chemicals",0,1
+"D_021","rigosertib","PLK","Cell cycle control","kinase inhibitor","Other","Selleck Chemicals",0,1
+"D_022","SP600125","JNK","MAPK","kinase inhibitor","Other","Selleck Chemicals",0,1
+"D_023","ralimetinib","p38 MAPK","MAPK","kinase inhibitor","Other","Selleck Chemicals",0,1
+"D_024","SGI-1776","PIM","PIM","kinase inhibitor","Other","Selleck Chemicals",0,1
+"D_025","NSC 74859","STAT","JAK/STAT","other","Other","Selleck Chemicals",0,1
+"D_026","tozasertib","Aurora A/B/C, FLT3, ABL1, JAK2","Cell cycle control","kinase inhibitor","Other","Selleck Chemicals",0,1
+"D_027","TAME","Anaphase-Promoting Complex (APC)","Cell cycle control","other","Other","Selleck Chemicals",0,1
+"D_028","galunisertib","TGF-beta","TGF","kinase inhibitor","Other","Selleck Chemicals",0,1
+"D_029","TAE684","ALK","ALK","other","Other","Selleck Chemicals",0,1
+"D_030","MK-2206","AKT1/2 (PKB)","PI3K/AKT","kinase inhibitor","Other","Selleck Chemicals",0,1
+"D_031","pomalidomide",NA,"Immune modulation","other","Other","Selleck Chemicals",1,0
+"D_032","NU7441","DNAPK","DNA damage response","kinase inhibitor","Other","Selleck Chemicals",0,1
+"D_033","tipifarnib","Farnesyltransferase (FNTA)","MAPK","other","Other","Selleck Chemicals",0,1
+"D_034","chaetocin","Lysine-specific histone methyltransferase","Epigenome","other","Other","Sigma-Aldrich",0,1
+"D_035","saracatinib","SRC, ABL1","B-cell receptor","kinase inhibitor","Other","Selleck Chemicals",0,1
+"D_036","tamatinib","SYK","B-cell receptor","kinase inhibitor","B-cell receptor","Selleck Chemicals",0,1
+"D_037","2-methoxyestradiol","Microtubules, HIF-1","Cytoskeleton","other","Other","Selleck Chemicals",0,1
+"D_038","serdemetan","MDM2","DNA damage response","other","Other","Selleck Chemicals",0,1
+"D_039","thapsigargin","Sarco/endoplasmic reticulum Ca2+ ATPase (SERCA)","Other","other","Other","Enzo Life Sciences",0,1
+"D_040","YM155","Survivin","Apoptosis (BH3, Survivin)","other","Other","Selleck Chemicals",0,1
+"D_041","BAY 11-7085","NFkB","NFkB","other","Other","Enzo Life Sciences",0,1
+"D_042","curcumin","COX2, NFkB","NFkB","other","Other","Enzo Life Sciences",0,1
+"D_043","SGX-523","MET","MET","kinase inhibitor","Other","Selleck Chemicals",0,1
+"D_044","MLN9708","Proteasome","Proteasome","other","Other","Selleck Chemicals",0,1
+"D_045","KU-60019","ATM","DNA damage response","kinase inhibitor","Other","Selleck Chemicals",0,1
+"D_046","ZM 336372","RAF1","MAPK","kinase inhibitor","Other","Selleck Chemicals",0,1
+"D_047","sorafenib","BRAF, RAF1, FLT3, KIT, PDGFRA, PDGFRB","MAPK","kinase inhibitor","Other","LKT Laboratories",1,0
+"D_048","orlistat","LPL","Other","other","Other","Cayman Chemicals",1,0
+"D_049","chaetoglobosin A","Actin","Cytoskeleton","other","Other","Enzo Life Sciences",0,1
+"D_050","dasatinib","ABL1, KIT, LYN, PDGFRA, PDGFRB, SRC","BCR/ABL","kinase inhibitor","Other","Selleck Chemicals",1,0
+"D_051","PKI-402","Pan PI3K","PI3K/AKT","kinase inhibitor","Other","Selleck Chemicals",0,1
+"D_052","PIK-75","PI3K alpha","PI3K/AKT","kinase inhibitor","Other","Selleck Chemicals",0,1
+"D_053","sunitinib","VEGFR, PDGFRA/B, FLT3, KIT","Angiogenesis","kinase inhibitor","Other","Selleck Chemicals",1,0
+"D_054","gefitinib","EGFR","EGFR","kinase inhibitor","Other","Selleck Chemicals",1,0
+"D_055","lapatinib","EGFR, HER2","EGFR","kinase inhibitor","Other","Selleck Chemicals",1,0
+"D_056","actinomycin D","RNA synthesis","DNA damage response","other","Other","Sigma-Aldrich",1,0
+"D_057","crizotinib","ALK, MET","ALK","kinase inhibitor","Other","Selleck Chemicals",1,0
+"D_058","ochratoxin A","Oxidative DNA damage","DNA damage response","other","Other","Sigma-Aldrich",0,1
+"D_059","lasalocid A","Cation transport","Other","other","Other","Sigma-Aldrich",0,1
+"D_060","cephaeline","40S ribosomal subunit","Other","other","Other","Sigma-Aldrich",0,1
+"D_061","oligomycin A","ATP synthase","Mitochondrial metabolism","other","Other","Cayman Chemicals",0,1
+"D_062","fumonisin B1","Ceramide synthase","Other","other","Other","Sigma-Aldrich",0,1
+"D_063","everolimus","mTOR","mTOR","other","Other","Selleck Chemicals",1,0
+"D_064","spliceostatin A","SF3b","Splicing","other","Other","Academic cooperation",0,1
+"D_065","ATRA","Retinoic acid and retinoid X receptor agonist","Other","other","Other","Sigma-Aldrich",1,0
+"D_066","arsenic trioxide",NA,"Other","other","Other","Sigma-Aldrich",1,0
+"D_067","rotenone","Electron transport chain in mitochondria","Mitochondrial metabolism","other","Other","Sigma-Aldrich",0,1
+"D_071","KX2-391","SRC","B-cell receptor","kinase inhibitor","Other","Selleck Chemicals",0,1
+"D_074","VE-821","ATR","DNA damage response","kinase inhibitor","Other","Selleck Chemicals",0,1
+"D_075","rabusertib","CHK1","DNA damage response","kinase inhibitor","Other","Selleck Chemicals",0,1
+"D_077","SCH 900776","CHK1, CDK2","DNA damage response","kinase inhibitor","Other","Selleck Chemicals",0,1
+"D_078","PF 477736","CHK1, CHK2","DNA damage response","kinase inhibitor","Other","Selleck Chemicals",0,1
+"D_079","spebrutinib","BTK","B-cell receptor","kinase inhibitor","B-cell receptor","Celgene",0,1
+"D_081","venetoclax","BCL2","Apoptosis (BH3, Survivin)","other","Apoptosis (BH3)","Selleck Chemicals",1,0
+"D_082","duvelisib","PI3K gamma, PI3K delta","PI3K/AKT","kinase inhibitor","B-cell receptor","Selleck Chemicals",0,1
+"D_083","encorafenib","BRAF","MAPK","other","Other","Novartis",0,1
+"D_084","ruxolitinib","JAK1/2/3","JAK/STAT","kinase inhibitor","Other","Selleck Chemicals",1,0
+"D_127","SD07","ROS","Reactive oxygen species","other","Reactive oxygen species","Academic cooperation",0,1
+"D_141","SD51","ROS","Reactive oxygen species","other","Reactive oxygen species","Academic cooperation",0,1
+"D_149","MIS-43","ROS","Reactive oxygen species","other","Reactive oxygen species","Academic cooperation",0,1
+"D_159","doxorubicine","DNA intercalation, Topoisomerase II","DNA damage response","chemotherapeutic agent","Other","Sigma-Aldrich",1,0
+"D_162","BML-277","CHK2","DNA damage response","kinase inhibitor","Other","Sigma-Aldrich",0,1
+"D_163","CCT241533","CHK2","DNA damage response","kinase inhibitor","Other","MedChem Express",0,1
+"D_164","BX912","PDK1","PI3K/AKT","kinase inhibitor","Other","Selleck Chemicals",0,1
+"D_165","silmitasertib","CK2","Cell cycle control","kinase inhibitor","Other","Selleck Chemicals",0,1
+"D_166","PRT062607 HCl","SYK","B-cell receptor","kinase inhibitor","B-cell receptor","Selleck Chemicals",0,1
+"D_167","UCN-01","PKC, MK2, CHK1","PKC","kinase inhibitor","Other","Sigma-Aldrich",0,1
+"D_168","sotrastaurin","PKC","PKC","kinase inhibitor","Other","Selleck Chemicals",0,1
+"D_169","tofacitinib","JAK3","JAK/STAT","kinase inhibitor","Other","Selleck Chemicals",0,1
+"D_172","BIX02188","MEK5","MAPK","kinase inhibitor","Other","Selleck Chemicals",0,1
+"D_CHK","BML-277 + rabusertib",NA,NA,NA,"Other",NA,0,0
