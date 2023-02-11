@@ -3,4 +3,9 @@ In this work, we propose a novel deep neural network architecture for integratin
 
 In DLSF-main.py, we first pretrain the cycle-autoeocders and save the parameters of the cycle-autoencoder network, then we train the cycle-autoencoders with a self-expressive layer to obtain global affininity matrix and the clusterings of multi-omics data.
 
-All the processed raw data are downloaded from http://acgt.cs.tau.ac.il/multi omic benchmark/download.html. The CLL data are available at the European GenomenPhenome Archive under accession EGAS00001001746 and data tables as R objects can be downloaded from http://pace.embl.de/
+All the processed raw data are downloaded from http://acgt.cs.tau.ac.il/multi omic benchmark/download.html. The CLL data are available at the European GenomenPhenome Archive under accession EGAS00001001746 and data tables as R objects can be downloaded from http://pace.embl.de/.
+
+Paper link: https://academic.oup.com/bib/article/23/2/bbab600/6515231?login=true
+
+References
+Zhang, C., Chen, Y., Zeng, T., Zhang, C. and Chen, L. (2022) Deep latent space fusion for adaptive representation of heterogeneous multi-omics data. Brief Bioinform
